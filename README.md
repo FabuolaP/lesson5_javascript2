@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 2, 2018
 
 ### Student Name:  
-(First and Last Name)
+Fabuola Pierre
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Print the currency exchange rate of 15 different countries using switch statements based on user input
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to declare additional variables and initialize each variable to the currency exchange rate for that country
+2. Calculate the currency exchange rate for each country using a selection statement
+3. Print the exchange rate information to the html document
 
